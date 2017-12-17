@@ -1,5 +1,5 @@
 {
-    "name": "asif/crud_artisan",
+    "name": "asif/crud-artisan",
     "description": "This package is for generating crud related files with one artisan command like controllers,models,views,migrations and requests for formvalidation",
     "license": "MIT",
     "authors": [
