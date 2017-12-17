@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Asif\\Crud_artisan\\": "vendor/asif/crud_artisan/src"
+            "Asif\\Crud_artisan\\": "src/"
         }
     }
 }
